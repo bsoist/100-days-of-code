@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 3: March 20, 2022
+**Today's Progress:**
+I did a few more C and JavaScript solutions and cleaned up how I share them on GitHub.
+
+**Link to work:**
+[https://github.com/bsoist/codesignal-arcade-solutions](https://github.com/bsoist/codesignal-arcade-solutions)
 
 ### Day 2: March 19, 2022
 **Today's Progress:**
