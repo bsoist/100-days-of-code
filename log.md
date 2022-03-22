@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 4: March 21, 2022
+**Today's Progress:**
+I spent a lot of time fidgeting with my - already working :) - Python solutoin for intro 7. In the end, I left it alone. Then I tried to implement a JavaScript version, but got hung up on the checking for duplicates without exceeding the time limit. 
+
+**Link to work:**
+[https://github.com/bsoist/codesignal-arcade-solutions](https://github.com/bsoist/codesignal-arcade-solutions)
+
 ### Day 3: March 20, 2022
 **Today's Progress:**
 I did a few more C and JavaScript solutions and cleaned up how I share them on GitHub.
