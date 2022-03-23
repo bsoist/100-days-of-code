@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 5: March 22, 2022
+**Today's Progress:**
+I completed intro problem nine in JavaScript and C. I was stuck on the C version for a bit because of the CodeSignal-specific arrays.
+
+**Link to work:**
+[Intro, problem 9](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/0_intro/009_allLongestStrings.md)
+
 ### Day 4: March 21, 2022
 **Today's Progress:**
 I spent a lot of time fidgeting with my - already working :) - Python solutoin for intro 7. In the end, I left it alone. Then I tried to implement a JavaScript version, but got hung up on the checking for duplicates without exceeding the time limit. 
