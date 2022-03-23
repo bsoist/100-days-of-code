@@ -5,6 +5,7 @@ I completed intro problem nine in JavaScript and C. I was stuck on the C version
 
 **Link to work:**
 [Intro, problem 9](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/0_intro/009_allLongestStrings.md)
+[Intro, problem 10](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/0_intro/010_commonCharacterCount.md)
 
 ### Day 4: March 21, 2022
 **Today's Progress:**
