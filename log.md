@@ -1,4 +1,19 @@
 # 100 Days Of Code - Log
+
+### Day 6: March 23, 2022
+**Today's Progress:**
+I completed C and JavaScript solutions for two more of the solutions. 
+
+**Thoughts:** 
+I spent far too much time down a rabbit hole with an idea for the C solution to number 11. **Way too much time** on that. :) 
+
+Re-writing my Python solutions in other languages has been far more educational than I expected it to be. I typically do work in one of the three languages based on context, but purposely writing solutions to the same problems in all three has me thinking through the differences much more carefully. Mostly stuff I "knew already" but it forces me to acknowledge the differences at every step. 
+
+I'm probably not doing a great job explaining it, but I think there is some longer writing to do on this subject. 
+
+**Link to work:**
+[Intro 11, Is Lucky](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/0_intro/011_isLucky.md)
+[Intro 12, Sorted by Height](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/0_intro/012_sortByHeight.md)
 ### Day 5: March 22, 2022
 **Today's Progress:**
 I completed intro problem nine in JavaScript and C. I was stuck on the C version for a bit because of the CodeSignal-specific arrays.
