@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: March 24, 2022
+
+**Today's Progress:**
+
+Completed JavaScript and C solutoins for Intro problems 14, and 15. I never completed 13.
+
+**Link to work:**
+
+* [Intro 14, Alternating Sums](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/0_intro/014_alternatingSums.md)
+* [Intro 15, Add Border](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/0_intro/015_addBorder.md)
 ### Day 6: March 23, 2022
 **Today's Progress:**
 
