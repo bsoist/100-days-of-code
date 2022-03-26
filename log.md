@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 8: March 25, 2022
+
+**Today's Progress:**
+
+I decided to move on to later problems since I am tired of re-doing the old ones for now. I miss seeing new ones. 
+
+**Thoughts:** 
+
+The two I did were not as much fun. I don't like the requirement to do one-liners, though, sometimes I do them on my own - I like it to be my idea. :) 
+
+**Link to work:**
+
+* [The Core 20, Mirror Bits](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/020_mirrorBIts.md)
+* [The Core 21, Second Rightmost Zero Bit](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/021_secondRightmostZeroBit.md)
+* [The Core 22, Swap Adjacent Bits](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/022_swapAdjacentBits.md)
+
 ### Day 7: March 24, 2022
 
 **Today's Progress:**
