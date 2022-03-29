@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 10: March 27, 2022
+
+**Today's Progress:**
+
+Worked on several more problems.
+
+**Thoughts:** 
+
+Finally back to some that aren't one-liners.
+
+**Link to work:**
+* [The Core 23, Different Rightmost Bit](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/023_differentRightmostBit.md)
+* [The Core 24, Equal Pair of Bits](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/024_equalPairOfBits.md)
+* [The Core 25, Count Sum of Two Representations 2](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/025_countSumOfTwoRepresentaions2.md)
+* [The Core 26, Least Factorial](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/026_leastFactorial.md)
+
+### Day 9: March 26, 2022
+
+**Today's Progress:**
+
+I worked on another problem. Couldn't finish it.
+
+
 ### Day 8: March 25, 2022
 
 **Today's Progress:**
