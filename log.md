@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 10: March 27, 2022
+### Day 11: March 29, 2022
+
+**Today's Progress:**
+
+Finished The Core problems 27 and 28. 
+
+**Thoughts:** 
+These were fairly simple simulations. I did review a couple other solutions and noticed that I could have done even better on Lineup by just noting that they'd be different if the command was `L` or `R`.
+
+**Link to work:**
+
+    * [The Core 27, Magical Well](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/027_magicalWell.md)
+    * [The Core 28, Lineup](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/028_lineup.md)
+
+### Day 10: March 28, 2022
 
 **Today's Progress:**
 
