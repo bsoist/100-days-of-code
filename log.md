@@ -7,7 +7,6 @@
 I solved one more of the code signal problems in C, Python, and JavaScript. I also spent some time addressing a bug in the program I wrote to check student work. 
 
 **Link to work:**
-
     * [The Core 29, Addition Without Carrying](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/029_additionWithoutCarrying.md)
 
 ### Day 11: March 29, 2022
@@ -20,7 +19,6 @@ Finished The Core problems 27 and 28.
 These were fairly simple simulations. I did review a couple other solutions and noticed that I could have done even better on Lineup by just noting that they'd be different if the command was `L` or `R`.
 
 **Link to work:**
-
     * [The Core 27, Magical Well](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/027_magicalWell.md)
     * [The Core 28, Lineup](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/028_lineup.md)
 
