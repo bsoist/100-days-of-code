@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 13: March 31, 2022
+
+**Today's Progress:**
+
+I solved one more problem on code arcade and then I wrote some setup code for Google Code Jam tomorrow.
+
+**Thoughts:** 
+
+Google Code Jam snuck up on me this year, but I'm looking forward to it.
+
+I'm a lttle tired of these problems that can be solved in just one line. They feel more like math to me. I love math, and I like that part of it, but I have been writing other ways to calculate the totals.
+
+**Link to work:**
+* [The Core 30, Apple Boxes](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/030_appleBoxes.md)
+
 ### Day 12: March 30, 2022
 
 **Today's Progress:**
