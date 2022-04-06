@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 18: April 6, 2022
+
+**Today's Progress:**
+
+I solved two problems from Google Code Jam rounds in which I did not compete.
+
 ### Day 17: April 5, 2022
 
 **Today's Progress:**
