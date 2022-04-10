@@ -3,7 +3,11 @@
 ### Day 21: April 10, 2022
 **Today's Progress:**
 
+Solved a few more code arcade problems.
+
 **Link to work:**
+
+[Core #31, Increase Number Roundness](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/031_increaseNumberRoundness.md)
 
 ### Day 20: April 9, 2022
 
