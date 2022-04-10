@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 21: April 10, 2022
+**Today's Progress:**
+
+**Link to work:**
+
+### Day 20: April 9, 2022
+
+**Today's Progress:**
+
+I did not complete all of the problems durimg the competition so I solved them today.
+### Day 19: April 8, 2022
+
+**Today's Progress:**
+
+I competed in Google Code Jam. I made a strategic mistake and did not qualify. I should know better by now. 
+
 ### Day 18: April 6, 2022
 
 **Today's Progress:**
@@ -19,11 +35,11 @@ I didn't particularly like some of the early round 2021 problems so I started at
 
 **Today's Progress:**
 
+I solved three more problems from Google Code Jam rounds in which I did not compete.
+
 **Thoughts:** 
 
 I realized I didn't have any record of competing (or solving any of the problems) for 2010 or 20111 so I decided to go back and solve those. And then... I decided to work on more recent problems and solve problems from some of the later rounds.
-
-**Link to work:**
 
 ### Day 15: April 2, 2022
 
@@ -203,8 +219,3 @@ Today I finished up a couple more CodeSignal Arcade problems and I setup [this r
 
 **Link to work:** I'm not permitted to share code for this one.
 
-
-### Day 14: April 1, 2022
-**Today's Progress:**
-**Thoughts:** 
-**Link to work:**
