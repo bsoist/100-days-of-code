@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 22: April 11, 2022
+**Today's Progress:**
+
+Solved a few more code arcade problems.
+
 ### Day 21: April 10, 2022
 **Today's Progress:**
 
