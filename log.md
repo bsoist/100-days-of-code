@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 24: April 13, 2022
+
+**Today's Progress:**
+
+Solved a couple more code arcaade problems and posted a couple more from previous days.
+
+**Link to work:**
+
+[Core #32, Rounders](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/032_rounders.md)
+[Core #33, Candles](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/033_candles.md)
+[Core #34, Count Black Cells](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/034_countBlackCells.md)
+[Core #35, Create Array](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/035_createArray.md)
+[Core #36, Array Replace](https://github.com/bsoist/codesignal-arcade-solutions/blob/main/1_the_core/036_arrayReplace.md)
+
 ### Day 23: April 12, 2022
 
 **Today's Progress:**
